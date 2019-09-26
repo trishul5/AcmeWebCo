@@ -1,0 +1,16 @@
+{
+  "name": "AcmeWebCo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "Trishul Sathiyamoorthy",
+  "license": "MIT",
+  "homepage": "https://trishul5.github.io/AcmeWebDesignCo",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
