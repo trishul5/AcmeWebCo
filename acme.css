@@ -1,0 +1,156 @@
+clehtml, body {
+    scroll-behavior: smooth;
+    margin: 0;
+    padding: 0;
+    font-family: 'Hind Vadodara', sans-serif;
+}
+
+.company-name {
+    color: white;
+}
+
+.header-nav {
+    width: 100%;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    background-color: rgb(19, 73, 128);
+}
+
+.header-ul {
+    float: right;
+}
+
+li {
+    display: inline-block;
+    padding: 15px; 
+    color: white;
+}
+
+.main-content {
+    background-image: url("code.jpeg");
+    padding-top: 0px;
+    padding-bottom: 200px;
+}
+
+.main-content-header {
+    font-size: 35px;
+    color: white;
+    background-size: cover;
+    text-align: center;
+}
+
+.main-content-description {
+    color: white;
+    text-align: center;
+}
+
+.news-letter {
+    color: white;
+    text-align: center;
+}
+
+.news-letter-section {
+    padding: 30px;
+    background-color:  rgb(19, 73, 128);
+}
+
+.technology_images {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 50px; 
+    padding-bottom: 50px; 
+}
+
+.technology_descriptions {
+    margin-left: 10px; 
+    display: flex;
+    flex-direction: row;
+}
+
+.html-desc {
+    font-size: 20px;
+    margin-left: 125px;
+    position: absolute;
+    float: left;
+}
+
+.css-desc {
+    font-size: 20px;
+    margin-left: 575px;
+    position: absolute;
+    float: center; 
+}
+
+.design-desc {
+    font-size: 20px;
+    margin-left: 1040px;
+    position: absolute;
+    float: left;
+}
+
+.copyright-thing {
+    padding-top: 10px;
+    width: 100%;
+    background-color: rgb(19, 73, 128);
+    text-align: center;
+    color: white;
+    margin: 0;
+}
+
+#about {
+    background-color: rgb(19, 73, 128);
+    padding: 140px; 
+}
+
+.about {
+    text-align: center;
+    text-decoration: underline;
+    color: white
+}
+
+.about-main {
+    text-align: center;
+    color: white;
+}
+
+.about-intro {
+    text-align: center;
+    color: white;
+}
+
+.about-testimony {
+    text-align: center;
+    color: white;
+}
+
+#testimonials {
+    background-color: rgb(19, 73, 128);
+    padding: 80px;
+}
+
+.see-what {
+    text-align: center;
+    text-decoration: underline;
+    color: white;
+}
+
+.test1 {
+    text-align: center;
+    color: white;
+}
+
+.test2 {
+    text-align: center;
+    color: white;
+}
+
+.test3 {
+    text-align: center;
+    color: white;
+}
+
+#services {
+    margin-left: 10px;
+    padding-bottom: 50px; 
+}
